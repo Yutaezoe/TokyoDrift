@@ -10,5 +10,5 @@ git clone https://github~~
 # ブランチ作成
 git branch sidebar
 
-#Changed yoshio
+#Changed yoshio-san
 pushの練習
